@@ -7,6 +7,7 @@ using namespace std;
 #define N 200005
 
 vector<int> adj[N];
+//main function
 int32_t main()
 {
 
